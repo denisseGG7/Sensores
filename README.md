@@ -5,7 +5,7 @@
 ### SISTEMAS PROGRAMABLES 23a
 ### **Autor:** *Guipzot Garibay Denisse Abigail 20211788*
 ### Exposición U1 
-### Fecha de revisión: 25/08/2023
+### Fecha de revisión: 13/09/2023
 
 
 **Objetivo**
@@ -53,6 +53,8 @@ La variación se produce cuando la terminal móvil se mueve y la resistencia que
    * __Exponencial:__ El valor de la resistencia es exponencial a la posición de la perilla.
   
 #### __Ejemplo de un circuito con potenciómetro__
+
+#### Referencias bibliográficas
  
 
 
