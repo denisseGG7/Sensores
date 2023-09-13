@@ -1,11 +1,16 @@
 # Sensores
 ![](Imagenes/titulo.png)
+### Instituto Tecnólogico de Tijuana
 ### Depto de Sistemas y Computación
 ### Ing. En Sistemas Computacionales
-### SISTEMAS PROGRAMABLES 23a
-### **Autor:** *Guipzot Garibay Denisse Abigail 20211788*
+### SC7C SISTEMAS PROGRAMABLES 
 ### Exposición U1 
+### **Autor:** *Guipzot Garibay Denisse Abigail 20211788*
 ### Fecha de revisión: 13/09/2023
+
+## Objetivo
+
+Definición de características y explicación de propiedades referentes al componente eléctrico llamado potenciometro, así mismo como exponer puntos claves para el entendimiento y comprensión de este elemento.
 
 ## Marco teórico
 
@@ -55,7 +60,9 @@ La variación se produce cuando la terminal móvil se mueve y la resistencia que
    * __Senoidal:__ La resistencia es proporcional al seno de la posición del cursor.
    * __Exponencial:__ El valor de la resistencia es exponencial a la posición de la perilla.
   
-#### __Ejemplo de un circuito con potenciómetro__
+#### __Ejemplo de un circuito con potenciómetro y Pico W__
+
+Con ayuda del software Wokwi se simulo la conexión básica del potenciómetro, con el fin de visualizar por consola las varaciones del valor de la resistencia, según el movimiento manual que se le aplicó a la perilla.
 ![](Imagenes/Codigo.png)
 
 ![](Imagenes/Circuito.png)
@@ -63,6 +70,8 @@ La variación se produce cuando la terminal móvil se mueve y la resistencia que
 ![](Imagenes/Salida.png)
 
 #### Referencias bibliográficas
+
+[Ingenierizando](https://www.ingenierizando.com/electronica/potenciometro/)
 
 ### Conclusión
 _Sobre este trabajó exploré y comprendí a profundidad todo lo que engloba a los potenciómetros; si bien, como muchos de los componentes eléctricos y electrónicos es una pieza pequeña, es un elemento importante dentro de los circuitos, ya que permite controlar, variar y manipular el flujo de voltaje sobre dicho sistema, y aunque no estemos familiarizados con este componente, es una herramienta que está presente en varios equipos que utilizamos._
