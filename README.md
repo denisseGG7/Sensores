@@ -19,7 +19,7 @@
 Se trata de un componente eléctrico de tres terminales, el cual se clasifica como una resistencia que es capaz de modificar o ajustar valor del voltaje, controlando el flujo de corriente que pasa a través de este; esta resistencia variable permite provocar una _caída de tensión_ para posteriormente ser regulado de manera manual. El valor de los potenciómetros es expresado en ohms Ω.
 
 ![Potenciómetro](https://intesc.mx/wp-content/uploads/2021/08/potenciometro-de-1m-ohm-POT105A.jpg)
-![Simbolo de un potenciómetro](https://intesc.mx/wp-content/uploads/2021/08/potenciometro-de-1m-ohm-POT105A.jpg)
+![Simbolo de un potenciómetro](https://draco-robotic.com/wp-content/uploads/2021/02/image-13.png)
 
 #### __Estructura interna de un potenciómetro__
 
