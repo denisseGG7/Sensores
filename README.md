@@ -39,7 +39,7 @@ Su objetivo general dentro de los circuitos, es ayudar a otros dispovitivos elec
   * Regular el volumen.
   * Cambio de velocidad.
  
-![](https://thumbs.dreamstime.com/z/section-de-m%C3%A9langeur-contr%C3%B4leur-pionnier-dans-dj-boutons-brillants-magasin-musique-nouveaux-l-industrie-bruyante-studio-181115367.jpg)
+![](https://www.hwlibre.com/wp-content/uploads/2021/02/dj-mesa-mezclas.jpeg)
 
 #### __Funcionamiento__
 
