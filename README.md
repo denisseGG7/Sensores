@@ -10,7 +10,7 @@
 
 ## Objetivo
 
-Definición de características y explicación de propiedades referentes al componente eléctrico llamado potenciometro, así mismo como exponer puntos claves para el entendimiento y comprensión de este elemento.
+Definición de características y explicación de propiedades referentes al componente eléctrico llamado *potenciómetro*, así mismo como exponer puntos claves para el entendimiento y comprensión de este elemento.
 
 ## Marco teórico
 
@@ -73,7 +73,9 @@ Con ayuda del software Wokwi se simulo la conexión básica del potenciómetro, 
 #### Referencias bibliográficas
 
 [Ingenierizando](https://www.ingenierizando.com/electronica/potenciometro/)
+
 [ElectrónicaOnLine](https://electronicaonline.net/componentes-electronicos/resistor/potenciometro/)
+
 [MecatrónicaLATAM](https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/potenciometro/)
 
 ### Conclusión
