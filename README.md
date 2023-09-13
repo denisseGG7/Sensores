@@ -1,5 +1,7 @@
 # Sensores
-Exposición U1 Sensor potenciómetro 
+## POTENCIOMETROS
+### Exposición U1 
+
 
 **Objetivo**
 
