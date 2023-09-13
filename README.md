@@ -1,7 +1,7 @@
 # Sensores
 ## POTENCIÓMETROS
 ### Exposición U1 
-**Autor:** *Guipzot Garibay Denisse Abigail 20211788*
+#### **Autor:** *Guipzot Garibay Denisse Abigail 20211788*
 
 
 **Objetivo**
@@ -26,3 +26,5 @@ Su objetivo general dentro de los circuitos, es ayudar a otros dispovitivos elec
   * Controlar brillo, contraste y color en pantallas.
   * Regular el volumen.
   * Cambio de velocidad.
+
+__Funcionamiento__
