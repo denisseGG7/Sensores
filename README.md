@@ -1,7 +1,11 @@
 # Sensores
 ## POTENCIÓMETROS
+### Depto de Sistemas y Computación
+### Ing. En Sistemas Computacionales
+### SISTEMAS PROGRAMABLES 23a
+### **Autor:** *Guipzot Garibay Denisse Abigail 20211788*
 ### Exposición U1 
-#### **Autor:** *Guipzot Garibay Denisse Abigail 20211788*
+### Fecha de revisión: 25/08/2023
 
 
 **Objetivo**
@@ -28,3 +32,4 @@ Su objetivo general dentro de los circuitos, es ayudar a otros dispovitivos elec
   * Cambio de velocidad.
 
 __Funcionamiento__
+La variación se produce cuando la terminal móvil se mueve y la resistencia que está presente en esta terminal y una terminal fija cambia de proporción al desplazamiento angular; en otras palabras, en cuanto más material resistivo exista entre el terminal fijo y la posición del cursor, mayor será el valor de la resistencia que proporciona el dispositivo. 
