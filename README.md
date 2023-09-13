@@ -28,7 +28,7 @@ Se trata de un componente eléctrico de tres terminales, el cual se clasifica co
 * __Cursor:__ también conocido como perilla, es el elemento que se utiliza para realizar la variación del valor de la resistencia. 
 * __Material resistivo:__ material que evita o difulta el paso de la corriente eléctrica.
 
-![](https://curiosoando.com/wp-content/uploads/2013/09/potenciometro-giratorio.png)
+![](https://electronicaonline.net/wp-content/uploads/2022/05/como-reostato.jpg)
 
 #### __¿Para qué sirve un potenciómetro?__
 
