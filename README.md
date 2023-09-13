@@ -45,6 +45,8 @@ Su objetivo general dentro de los circuitos, es ayudar a otros dispovitivos elec
 
 La variación se produce cuando la terminal móvil se mueve y la resistencia que está presente en esta terminal y una terminal fija cambia de proporción al desplazamiento angular; en otras palabras, en cuanto más material resistivo exista entre el terminal fijo y la posición del cursor, mayor será el valor de la resistencia que proporciona el dispositivo. 
 
+![](https://d1mn3wlmmk2j5v.cloudfront.net/media/Blog/potenciometro-tono-reostato-2.jpg)
+
 #### __Tipos__
 
 * _Clasificados según el tipo de mando:_
