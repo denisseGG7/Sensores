@@ -21,7 +21,7 @@ Se trata de un componente eléctrico de tres terminales, el cual se clasifica co
 * __Cursor:__ también conocido como perilla, es el elemento que se utiliza para realizar la variación del valor de la resistencia. 
 * __Material resistivo:__ material que evita o dificulta el paso de la corriente eléctrica.
 
-![](https://electronicaonline.net/wp-content/uploads/2022/05/como-reostato.jpg)
+![](https://curiosoando.com/wp-content/uploads/2013/09/potenciometro-giratorio.png)
 
 #### __¿Para qué sirve un potenciómetro?__
 
@@ -38,7 +38,7 @@ Su objetivo general dentro de los circuitos, es ayudar a otros dispositivos elec
 
 La variación se produce cuando la terminal móvil se mueve y la resistencia que está presente en esta terminal y una terminal fija cambia de proporción al desplazamiento angular; en otras palabras, en cuanto más material resistivo exista entre el terminal fijo y la posición del cursor, mayor será el valor de la resistencia que proporciona el dispositivo. 
 
-![](https://d1mn3wlmmk2j5v.cloudfront.net/media/Blog/potenciometro-tono-reostato-2.jpg)
+![](https://electronicaonline.net/wp-content/uploads/2022/05/como-reostato.jpg)
 
 #### __Tipos__
 
