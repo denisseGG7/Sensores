@@ -63,6 +63,7 @@ La variación se produce cuando la terminal móvil se mueve y la resistencia que
 #### __Ejemplo de un circuito con potenciómetro y Pico W__
 
 Con ayuda del software Wokwi se simulo la conexión básica del potenciómetro, con el fin de visualizar por consola las varaciones del valor de la resistencia, según el movimiento manual que se le aplicó a la perilla.
+
 ![](Imagenes/Codigo.png)
 
 ![](Imagenes/Circuito.png)
@@ -72,6 +73,8 @@ Con ayuda del software Wokwi se simulo la conexión básica del potenciómetro, 
 #### Referencias bibliográficas
 
 [Ingenierizando](https://www.ingenierizando.com/electronica/potenciometro/)
+[ElectrónicaOnLine](https://electronicaonline.net/componentes-electronicos/resistor/potenciometro/)
+[MecatrónicaLATAM](https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/potenciometro/)
 
 ### Conclusión
 _Sobre este trabajó exploré y comprendí a profundidad todo lo que engloba a los potenciómetros; si bien, como muchos de los componentes eléctricos y electrónicos es una pieza pequeña, es un elemento importante dentro de los circuitos, ya que permite controlar, variar y manipular el flujo de voltaje sobre dicho sistema, y aunque no estemos familiarizados con este componente, es una herramienta que está presente en varios equipos que utilizamos._
