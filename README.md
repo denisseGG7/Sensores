@@ -7,10 +7,9 @@
 ### Exposición U1 
 ### Fecha de revisión: 13/09/2023
 
-## 
+## Marco teórico
 
 #### __¿Qué es un potenciómentro?__
-
 Se trata de un componente eléctrico de tres terminales, el cual se clasifica como una resistencia que es capaz de modificar o ajustar el valor del voltaje, controlando el flujo de corriente que pasa a través de este; esta resistencia variable permite provocar una _caída de tensión_ para posteriormente ser regulado de manera manual. El valor de los potenciómetros es expresado en ohms Ω.
 
 ![Potenciómetro](https://m.media-amazon.com/images/I/71PQRUiCvJL._AC_UF350,350_QL80_.jpg)
