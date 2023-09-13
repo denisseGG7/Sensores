@@ -55,7 +55,7 @@ La variación se produce cuando la terminal móvil se mueve y la resistencia que
    * __Exponencial:__ El valor de la resistencia es exponencial a la posición de la perilla.
   
 #### __Ejemplo de un circuito con potenciómetro__
-
+![](Imagenes/Circuito.png)
 #### Referencias bibliográficas
  
 
