@@ -58,7 +58,10 @@ La variación se produce cuando la terminal móvil se mueve y la resistencia que
 ![](Imagenes/Codigo.png)
 ![](Imagenes/Circuito.png)
 ![](Imagenes/Salida.png)
+
 #### Referencias bibliográficas
- 
+
+### Conclusión
+_Sobre este trabajó exploré y comprendí a profundidad todo lo que engloba a los potenciómetros; si bien, como muchos de los componentes eléctricos y electrónicos es una pieza pequeña, es un elemento importante dentro de los circuitos, ya que permite controlar, variar y manipular el flujo de voltaje sobre dicho sistema, y aunque no estemos familiarizados con este componente, es una herramienta que está presente en varios equipos que utilizamos.
 
 
