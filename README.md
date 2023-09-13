@@ -7,9 +7,9 @@
 ### Exposición U1 
 ### Fecha de revisión: 13/09/2023
 
-#### __¿Qué es un potenciómentro__
+#### __¿Qué es un potenciómentro?__
 
-Se trata de un componente eléctrico de tres terminales, el cual se clasifica como una resistencia que es capaz de modificar o ajustar valor del voltaje, controlando el flujo de corriente que pasa a través de este; esta resistencia variable permite provocar una _caída de tensión_ para posteriormente ser regulado de manera manual. El valor de los potenciómetros es expresado en ohms Ω.
+Se trata de un componente eléctrico de tres terminales, el cual se clasifica como una resistencia que es capaz de modificar o ajustar el valor del voltaje, controlando el flujo de corriente que pasa a través de este; esta resistencia variable permite provocar una _caída de tensión_ para posteriormente ser regulado de manera manual. El valor de los potenciómetros es expresado en ohms Ω.
 
 ![Potenciómetro](https://m.media-amazon.com/images/I/71PQRUiCvJL._AC_UF350,350_QL80_.jpg)
 ![Simbolo de un potenciómetro](https://draco-robotic.com/wp-content/uploads/2021/02/image-13.png)
@@ -19,13 +19,13 @@ Se trata de un componente eléctrico de tres terminales, el cual se clasifica co
 * __Terminales fijos:__ un potenciómetro cuenta con dos terminales fijos
 * __Terminal variable:__ parte del componente encargada de permitir que se realicen modificaciones en el valor del voltaje.
 * __Cursor:__ también conocido como perilla, es el elemento que se utiliza para realizar la variación del valor de la resistencia. 
-* __Material resistivo:__ material que evita o difulta el paso de la corriente eléctrica.
+* __Material resistivo:__ material que evita o dificulta el paso de la corriente eléctrica.
 
 ![](https://electronicaonline.net/wp-content/uploads/2022/05/como-reostato.jpg)
 
 #### __¿Para qué sirve un potenciómetro?__
 
-Su objetivo general dentro de los circuitos, es ayudar a otros dispovitivos electrónicos a variar la intensidad de sus características, es decir, intervienen dentro del circuito para realizar un cambio gradual de voltaje o resistencia.
+Su objetivo general dentro de los circuitos, es ayudar a otros dispositivos electrónicos a variar la intensidad de sus características, es decir, intervienen dentro del circuito para realizar un cambio gradual de voltaje o resistencia.
 
 * _Aplicaciones_
   * Controlar brillo, contraste y color en pantallas.
@@ -49,9 +49,9 @@ La variación se produce cuando la terminal móvil se mueve y la resistencia que
   * __De ajuste:__ Son aquellos que vienen preajustados de fábrica.
  
  * _Clasificados según la variación de la resistencia:_
-   * __Lineal:__ El valor varia de manera proporsional a la posición del cursor.
+   * __Lineal:__ El valor varia de manera proporcional a la posición del cursor.
    * __Logarítmico:__ Su funcionamiento se basa en una relación logarítmica entre el valor y la posición del cursor, siendo el valor muy sensible al cambio de posición del cursor.
-   * __Senoidal:__ La resisrencia es proporcional al seno de la posición del cursor.
+   * __Senoidal:__ La resistencia es proporcional al seno de la posición del cursor.
    * __Exponencial:__ El valor de la resistencia es exponencial a la posición de la perilla.
   
 #### __Ejemplo de un circuito con potenciómetro__
